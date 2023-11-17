@@ -8,7 +8,7 @@
 # Workshop Series on Systematic Literature Review (SLR) Using AI
 
 <p align="center">
-<img src="/images/MSO-SLR.jpeg"  height="400" />
+<img src="/images/MSO-SLR.jpeg"  height="500" />
 </p>
 
 
