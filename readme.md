@@ -9,7 +9,7 @@
 
 
 | Session | Topic                                                    | Date                                | Venue            |
-|---------:|----------------------------------------------------------|-------------------------------------|------------------|
+|:---------:|----------------------------------------------------------|-------------------------------------|------------------|
 | 1.       | AI Tools for Literature Review                          | 21 – 22 Nov 2023                   | UniKL MIIT       |
 | 2.       | SLR Mastery: From Theory to Practice                     | 5 – 6 Dec 2023                    | UniKL MIIT       |
 | 3.       | Mastering the Art of Crafting a SLR: A Workshop Guide    | 19 – 20 Dec 2023                  | UniKL MIIT       |
