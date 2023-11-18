@@ -41,7 +41,7 @@ Please be sure to complete these tasks before our first class, as they are essen
 Looking forward to an amazing and productive class!
 
 ## Session 1
-### [1. Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
+### [1. Copywriting with ChatGPT](./materials/s1-1copywriting.md)
 Exploring **copywriting** with **ChatGPT** from an **academic perspective** means looking at how **artificial intelligence (AI)** and writing work together. **ChatGPT**, an advanced language tool, changes how we create **writing**. By using smart computer programs and lots of information, this **AI** can create detailed and fitting **writing** based on what users ask. Looking at this from an **academic view** helps us understand how **ChatGPT** handles language intricacies and adjusts to different **writing styles**. It gives us a better picture of how technology and language connect. This **academic study** not only shows the potential of **AI-driven writing** in changing how we create **content** but also makes us think about important things like ethics, language details, and how human creativity fits into a world with smart machines.
 
 ### [2. Chatbot and Detecting AI-Generated Content](./materials/s1-2ai_tools.md)
