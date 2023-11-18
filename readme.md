@@ -18,8 +18,8 @@
 | 3       | Mastering the Art of Crafting a SLR: A Workshop Guide    | 19 – 20 Dec 2023                  | UniKL MIIT       |
 | 4       | Mentoring Session                                        | 2 – 3 Jan 2024<br>30 – 31 Jan 2024  | Online Sessions  |
 
-# Essential Preparations for a Successful Start in Github Class 🚀
-Welcome to Github class! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
+# "Important Things to do Before Going to the SLR Workshop" 🚀
+Welcome to SLR Workshop! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
 
 1. **Create a GitHub Account:**
    Ensure you have a GitHub :octocat: account by signing up at [GitHub](https://github.com/login).
