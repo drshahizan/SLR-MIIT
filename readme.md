@@ -28,7 +28,7 @@ Welcome to SLR Workshop! We are thrilled to embark on this exciting learning jou
    All teaching materials will be available on my GitHub account. Please **follow** [this link](https://github.com/drshahizan) to access the materials.
 
 3. **Fork and Star Repository:**
-   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/learn-github). We will be using this repository extensively.
+   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/SLR-MIIT). We will be using this repository extensively.
 
 4. **Complete Information Form:**
    Please fill in 🧑‍💻 your details in the provided Google Sheets document [here](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=791205809).
