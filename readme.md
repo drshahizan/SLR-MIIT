@@ -11,13 +11,34 @@
 <img src="/images/MSO-SLR.jpeg"  height="500" />
 </p>
 
-
 | Session | Topic                                                    | Date                                | Venue            |
 |:---------:|----------------------------------------------------------|-------------------------------------|------------------|
 | 1       | AI Tools for Literature Review                          | 21 – 22 Nov 2023                   | UniKL MIIT       |
 | 2       | SLR Mastery: From Theory to Practice                     | 5 – 6 Dec 2023                    | UniKL MIIT       |
 | 3       | Mastering the Art of Crafting a SLR: A Workshop Guide    | 19 – 20 Dec 2023                  | UniKL MIIT       |
 | 4       | Mentoring Session                                        | 2 – 3 Jan 2024<br>30 – 31 Jan 2024  | Online Sessions  |
+
+# Essential Preparations for a Successful Start in Github Class 🚀
+Welcome to Github class! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
+
+1. **Create a GitHub Account:**
+   Ensure you have a GitHub :octocat: account by signing up at [GitHub](https://github.com/login).
+
+2. **Access Teaching Materials:**
+   All teaching materials will be available on my GitHub account. Please **follow** [this link](https://github.com/drshahizan) to access the materials.
+
+3. **Fork and Star Repository:**
+   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/learn-github). We will be using this repository extensively.
+
+4. **Complete Information Form:**
+   Please fill in 🧑‍💻 your details in the provided Google Sheets document [here](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=791205809).
+
+5. **GitHub Usage for Course:**
+   Throughout this course, we will utilize GitHub for sharing materials, submitting tasks, projects, and more. Make sure you have a meaningful GitHub username associated with your account.
+
+Please be sure to complete these tasks before our first class, as they are essential for our learning and collaboration.
+
+Looking forward to an amazing and productive class!
 
 
 ## Gitbook
