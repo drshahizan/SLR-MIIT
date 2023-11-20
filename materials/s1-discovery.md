@@ -16,7 +16,49 @@
 | 5. | ResearchRabbit| ResearchRabbit is a literature mapping platform that takes one or more relevant seed papers and uses various algorithms to suggest and visualize relevant literature and researchers.  |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/paper-discovery/researchrabbit" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.researchrabbit.ai/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 | 6. | Inciteful | The goal of Inciteful is to give the world free tools to help you map academic literature. It can be used in a variety of ways depending on what you are trying to accomplish. Start from seed paper(s), you can have an overview on the current state of that topic. Then, by adding more seed papers or filters, you can further craft the citation graph and have a focus on your search. If you are writing a paper, you can import the items in your reference list to Inciteful, and the resulting graph should be centered around the paper you are writing.  |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/paper-discovery/inciteful" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://inciteful.xyz/" width="24px" height="24px" ></a> |
 
+## Exercise
 
+1. **Connected Papers: Advancing Natural Language Processing (NLP) Techniques:**
+   - **Objective:** Use Connected Papers to explore the evolution of Natural Language Processing (NLP) techniques over the past decade.
+   - **Tasks:**
+     - Identify seminal papers in NLP.
+     - Analyze citation networks to understand key research directions.
+     - Use Connected Papers to discover recent trends and influential authors in NLP.
+
+2. **R Discovery: Breakthroughs in Computer Vision Research:**
+   - **Objective:** Employ R Discovery to uncover recent breakthroughs in Computer Vision research.
+   - **Tasks:**
+     - Utilize R Discovery to search for the latest papers in Computer Vision.
+     - Cluster related papers to identify emerging subfields.
+     - Evaluate the impact of specific papers through citation analysis.
+
+3. **Humata AI: Revolutionizing Artificial Intelligence in Healthcare:**
+   - **Objective:** Leverage Humata AI to explore the intersection of Artificial Intelligence and Healthcare.
+   - **Tasks:**
+     - Use Humata AI to discover papers on AI applications in healthcare.
+     - Explore co-authorship networks to identify collaborative research efforts.
+     - Analyze keywords and topics to understand the focus areas in AI for healthcare.
+
+4. **Litmaps: Unraveling the Landscape of Quantum Computing:**
+   - **Objective:** Apply Litmaps to map out the landscape of Quantum Computing research.
+   - **Tasks:**
+     - Use Litmaps to visualize the key themes and clusters in Quantum Computing literature.
+     - Identify influential papers shaping the field.
+     - Explore collaborative networks among researchers in quantum computing.
+
+5. **ResearchRabbit: Sustainable Technologies for Smart Cities:**
+   - **Objective:** Utilize ResearchRabbit to discover sustainable technologies contributing to the development of smart cities.
+   - **Tasks:**
+     - Search for papers related to sustainable technologies and smart cities.
+     - Employ ResearchRabbit to identify interdisciplinary connections.
+     - Evaluate the impact of these technologies on urban development.
+
+6. **Inciteful: Understanding the Evolution of Machine Learning Algorithms:**
+   - **Objective:** Use Inciteful to gain insights into the evolution of machine learning algorithms.
+   - **Tasks:**
+     - Explore Inciteful to find key papers on machine learning algorithms.
+     - Analyze temporal trends in algorithmic research.
+     - Evaluate the influence of specific algorithms on subsequent research.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
