@@ -5,7 +5,12 @@
 <a href="https://github.com/drshahizan/SLR-MIIT/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-MIIT?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-MIIT&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+# Paper Discovery
+
+| No.  | Name | Description | Info | Tools |
+|------: | ------------------|-----|:--------:|:--------:|
+| 1. | Scopus | Scopus is a citation index and abstracting service that indexes scholarly literature from a wide variety of sources, including peer-reviewed journals, books, conference proceedings, and datasets. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/lit-search/scopus" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.scopus.com/home.uri" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
