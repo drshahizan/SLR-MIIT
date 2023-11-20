@@ -5,8 +5,8 @@
 <a href="https://github.com/drshahizan/SLR-MIIT/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-MIIT?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-MIIT&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Dummy dataset
-You are required to produce dummy data for Malaysian residents. The amount of data that needs to be generated is 100 data. Please produce in table form. Suggest a suitable column.
+# Story books
+Please produce story books suitable for children. This book must have pure values ​​and appropriate advice. Please use Bahasa Malaysia language.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
