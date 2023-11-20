@@ -7,6 +7,11 @@
 
 # Paper Visualization
 
+| No.  | Name | Description | Info | Tools |
+|------: | ------------------|-----|:--------:|:--------:|
+| 1. | Open Knowledge Maps | Open Knowledge Maps (OKM) is an open-source platform for creating and visualizing knowledge graphs. It is based on the RDF (Resource Description Framework) standard, which makes it possible to integrate data from different sources. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/paper-visualization/open-knowledge-maps-okm" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://openknowledgemaps.org/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
+| 2. | VOSviewer | This is a software tool for constructing and visualizing bibliometric networks such as journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/paper-visualization/vosviewer" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.vosviewer.com/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
