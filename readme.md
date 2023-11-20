@@ -16,7 +16,8 @@
 | 1       | AI Tools for Literature Review                          | 21 – 22 Nov 2023                   | UniKL MIIT       |
 | 2       | SLR Mastery: From Theory to Practice                     | 5 – 6 Dec 2023                    | UniKL MIIT       |
 | 3       | Mastering the Art of Crafting a SLR: A Workshop Guide    | 19 – 20 Dec 2023                  | UniKL MIIT       |
-| 4       | Mentoring Session                                        | 2 – 3 Jan 2024<br>30 – 31 Jan 2024  | Online Sessions  |
+| 4       | Mentoring Session 1                                       | 2 – 3 Jan 2024  | Online Sessions  |
+| 5       | Mentoring Session 2                                       | 30 – 31 Jan 2024  | Online Sessions  |
 
 ## Important Things to do Before Going to the SLR Workshop 🚀
 Welcome to SLR Workshop! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
