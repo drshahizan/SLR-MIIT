@@ -22,6 +22,11 @@
 | 11. | Spinbot | Spinbot is a paraphrasing tool that uses artificial intelligence to rewrite text into new, unique content. It is a popular tool for writers, bloggers, and content creators who are looking to save time and effort on manual rewriting. Spinbot can also be used to create different creative text formats of text content, like poems, code, scripts, musical pieces, email, letters, etc. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/chatbot/spinbot" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://spinbot.com/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 | 12. | Grammarly | Grammarly is a digital writing assistant that helps users improve their grammar, spelling, punctuation, and style. It is a cloud-based application that can be used on a variety of devices, including computers, tablets, and smartphones. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/chatbot/grammarly" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.grammarly.com/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 
+## Exercise
+You wish to write an article about Systematic Literature Review. Please ask ChatGPT, Bing, and Bard to identify appropriate AI tools for article preparation. It will take two months to complete.
+
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
