@@ -23,10 +23,19 @@
 | 12. | Grammarly | Grammarly is a digital writing assistant that helps users improve their grammar, spelling, punctuation, and style. It is a cloud-based application that can be used on a variety of devices, including computers, tablets, and smartphones. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/chatbot/grammarly" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.grammarly.com/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 
 ## Exercise
-You wish to write an article about Systematic Literature Review. Please ask ChatGPT, Bing, and Bard to identify appropriate AI tools for article preparation. It will take two months to complete.
+You wish to write an article about Systematic Literature Review. Please ask ChatGPT, Bing, and Bard to:
 
+1. **Identification of Appropriate AI Tools:**
+   These tools should be capable of aiding us in various stages of the literature review process. This includes but is not limited to literature search, data extraction, and analysis. 
 
+   *Detailed Explanation:*
+   In addition to the tool recommendations, please provide detailed explanations for each recommended tool. Highlight the key features, functionalities, and specify how each tool can contribute to the overall quality of our literature review. Any advantages or unique capabilities should be emphasized for a thorough understanding.
 
+2. **Establishing a Reasonable Timetable:**
+   Recognizing the importance of time management within a two-month timeframe. This schedule should outline key milestones, allowing us to stay on track and ensure a well-organized and timely completion of our article.
+
+   *Considerations for Timetable:*
+   Please take into account any potential challenges or complexities that may arise during the literature review process. Flexibility in the timetable is appreciated, with room for adjustments based on the evolving nature of our research.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
@@ -35,6 +44,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
