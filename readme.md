@@ -60,6 +60,11 @@ Exploring **copywriting** with **ChatGPT** from an **academic perspective** mean
 ### [6. Citation Management](./materials/s1-citation.md)
 Citation management tools are indispensable assets for researchers and students, providing a systematic approach to the daunting task of handling references. These software applications, exemplified by notable tools like [EndNote](https://endnote.com/), [RefWorks](https://www.refworks.com/), [Zotero](https://www.zotero.org/), and [Mendeley](https://www.mendeley.com/), offer a comprehensive solution to the complexities of organizing, tracking, and citing sources. 
 
+### [7. Managing a Systematic Review](./materials/s1-systematic-review.md)
+Managing a systematic review is a complex process that requires careful planning and execution. There are a number of tools available to help researchers manage their systematic reviews, including: Rayyan. SysRev, Convidence, RevMan, Readwise, Obsidian, colandr, SRDR+ (AHRQ), The Systematic Review Toolbox, PRISMA-P, EQUATOR Network and DistillerSR.
+
+### [8. Text Summarizers](./materials/s1-summarizers.md)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
 
