@@ -64,6 +64,7 @@ Citation management tools are indispensable assets for researchers and students,
 Managing a systematic review is a complex process that requires careful planning and execution. There are a number of tools available to help researchers manage their systematic reviews, including: Rayyan. SysRev, Convidence, RevMan, Readwise, Obsidian, colandr, SRDR+ (AHRQ), The Systematic Review Toolbox, PRISMA-P, EQUATOR Network and DistillerSR.
 
 ### [8. Text Summarizers](./materials/s1-summarizers.md)
+Text summarizers like Elicit, SciSpace, QuillBot, Wordtune, Scholarcy, Resoomer, and TLDR This help make long content shorter. They use smart technology to pick out important information and create brief summaries. Elicit is good for summarizing web pages, SciSpace focuses on science stuff, QuillBot can rewrite and summarize, Wordtune helps with writing, Scholarcy is for academic papers, Resoomer works for various content, and TLDR This quickly summarizes articles and documents. These tools save time and make information easier to understand by getting to the main points.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
