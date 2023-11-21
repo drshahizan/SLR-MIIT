@@ -23,6 +23,108 @@
 | 10. | EQUATOR Network | The EQUATOR (Enhancing the QUAlity and Transparency Of health Research) Network is an international initiative that seeks to improve the reliability and value of published health research literature by promoting transparent and accurate reporting and wider use of robust reporting guidelines. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/manage-sr/equator-network" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.equator-network.org/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 | 11. | DistillerSR | DistillerSR is a web-based systematic review software designed to streamline and support the process of conducting systematic reviews and literature reviews. It is primarily used by researchers, academics, and professionals to manage the various stages of a systematic review, from literature screening and data extraction to synthesis and reporting of findings. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/manage-sr/distillersr" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.distillersr.com/products/distillersr-systematic-review-software" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 
+## Exercise
+
+### 1. **Tool Comparison Case Study:**
+   - **Objective:** Compare and evaluate the features and usability of two systematic review management tools (e.g., Rayyan and SysRev).
+   - **Tasks:**
+     1. **Tool Familiarization:**
+        - Install and set up Rayyan and SysRev on your computer.
+        - Explore the user interface of each tool.
+        - Identify and document the key features of both tools.
+
+     2. **Criteria Development:**
+        - Create a set of criteria for evaluating systematic review tools (e.g., user interface, collaboration features, integration capabilities).
+        - Prioritize the criteria based on their importance in the systematic review process.
+
+     3. **Simulated Review:**
+        - Choose a sample systematic review topic or use existing datasets.
+        - Simulate the process of conducting a systematic review separately using both tools.
+        - Document the strengths and weaknesses encountered during the process.
+
+     4. **Comparison Analysis:**
+        - Compare the experiences of using Rayyan and SysRev based on the established criteria.
+        - Create a detailed analysis report highlighting which tool performed better in specific aspects.
+        - Include recommendations for researchers based on your findings.
+
+### 2. **Integration Challenge Case Study:**
+   - **Objective:** Explore the integration capabilities of systematic review tools with other software or platforms.
+   - **Tasks:**
+     1. **Tool Selection:**
+        - Choose a systematic review tool with good integration support (e.g., Obsidian or DistillerSR).
+        - Identify an external tool or platform for integration (e.g., GitHub, JIRA).
+
+     2. **Integration Exploration:**
+        - Research and document the integration process between the selected systematic review tool and the external platform.
+        - Include details on setup, configuration, and any challenges encountered.
+        - Evaluate the benefits of the integration in streamlining the systematic review process.
+
+     3. **Documentation:**
+        - Create a comprehensive documentation guide for others interested in integrating the chosen systematic review tool with the selected external platform.
+        - Include screenshots, code snippets (if applicable), and troubleshooting tips.
+
+     4. **Discussion:**
+        - Write a reflective discussion on the benefits and challenges of integrating systematic review tools with external platforms.
+        - Consider the implications for collaboration, data management, and overall efficiency.
+
+### 3. **Customization and Extensibility Case Study:**
+   - **Objective:** Assess the customization and extensibility features of a systematic review tool (e.g., Colandr).
+   - **Tasks:**
+     1. **Tool Exploration:**
+        - Install and set up Colandr on your computer.
+        - Explore the customization options available within the tool.
+        - Identify any extensibility features, such as plugin support or API.
+
+     2. **Custom Feature Proposal:**
+        - Propose a custom feature or modification to enhance the systematic review process.
+        - Justify the need for the proposed feature and its potential impact.
+
+     3. **Implementation:**
+        - If possible, implement the proposed custom feature using the extensibility options provided by Colandr.
+        - Document the implementation process, including any code or configuration changes.
+
+     4. **Reflection:**
+        - Reflect on the implications of the custom feature in improving the systematic review process.
+        - Discuss the trade-offs and considerations in customizing tools for specific needs.
+
+### 4. **Collaborative Systematic Review Case Study:**
+   - **Objective:** Emphasize collaboration and teamwork using systematic review tools.
+   - **Tasks:**
+     1. **Tool Selection:**
+        - Choose a systematic review tool with strong collaborative features (e.g., RevMan or Readwise).
+        - Form a small team of students and assign roles (e.g., reviewer, editor).
+
+     2. **Simulated Collaboration:**
+        - Simulate a systematic review process where team members collaborate using the chosen tool.
+        - Assign specific tasks to each team member, such as literature review, data extraction, and synthesis.
+
+     3. **Evaluation:**
+        - Evaluate the effectiveness of the collaborative features in enhancing team communication and productivity.
+        - Document any challenges faced during the collaborative process.
+
+     4. **Report and Recommendations:**
+        - Create a detailed report on the collaborative experience, highlighting the strengths and weaknesses of the chosen tool.
+        - Provide recommendations for optimizing collaboration in systematic reviews.
+
+### 5. **Quality Assurance in Systematic Reviews Case Study:**
+   - **Objective:** Focus on the quality assurance aspects of systematic reviews using tools like PRISMA-P and EQUATOR Network.
+   - **Tasks:**
+     1. **Guidelines Exploration:**
+        - Explore the guidelines provided by PRISMA-P and EQUATOR Network for conducting high-quality systematic reviews.
+        - Create a checklist based on these guidelines for ensuring quality assurance.
+
+     2. **Checklist Application:**
+        - Apply the checklist to a sample systematic review using a tool like SRDR+.
+        - Document the adherence to quality assurance guidelines and note any deviations.
+
+     3. **Discussion:**
+        - Write a reflective discussion on the role of quality assurance checklists in systematic reviews.
+        - Discuss how tools like SRDR+ facilitate or hinder the adherence to quality standards.
+
+     4. **Recommendations:**
+        - Provide recommendations for researchers on incorporating quality assurance practices in their systematic review processes.
+        - Consider the impact on the reliability and credibility of systematic review outcomes.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
 
