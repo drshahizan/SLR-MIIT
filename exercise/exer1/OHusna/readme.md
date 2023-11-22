@@ -1,6 +1,6 @@
 Certainly! Continuing with the dummy data for Malaysian residents within the age range of 20 to 50:
 
-```plaintext
+
 91. Name: Priya Devi               Age: 29
 92. Name: Amirul Fikri Bin Jamal   Age: 38
 93. Name: Karen Wong               Age: 45
