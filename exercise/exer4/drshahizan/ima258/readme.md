@@ -20,6 +20,6 @@ Your journey to sporting immortality begins here! Whether you're a seasoned play
 
 ⚡ Come, be a part of our symphony of skill, passion, and unity. Together, we will script history on the fields of glory. Join our team, and let's illuminate the city with our collective brilliance! ⚡
 
-[Footer: Contact Information and Registration Details]
+Contact Information and Registration Details
 
 Welcome to the future of football in Kuala Lumpur. Embrace it. Shape it. Be a part of it. 🌟⚽🌟
