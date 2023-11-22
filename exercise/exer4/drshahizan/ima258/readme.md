@@ -1,5 +1,3 @@
-[Header Image: Football Icon with the Kuala Lumpur Skyline in the Background]
-
 🌟 Join the Spark of Sporting Majesty! 🌟
 
 In the heart of Kuala Lumpur, where dreams take flight and passions ignite, emerges a beacon of football brilliance - YOUR opportunity to be part of something extraordinary! 🌆⚽
