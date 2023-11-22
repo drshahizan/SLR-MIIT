@@ -1,6 +1,6 @@
 🌟 **Unleash Your Passion for Football in Kuala Lumpur! 🌟**
 
-🏆 **Introducing [Harimau Asia]: The Heartbeat of Kuala Lumpur Football!**
+🏆 **Introducing [PANDA]: The Heartbeat of Kuala Lumpur Football!**
 
 Are you ready to be part of something extraordinary? We are thrilled to announce the birth of a new football legacy right here in the heart of Kuala Lumpur! 🌆
 
