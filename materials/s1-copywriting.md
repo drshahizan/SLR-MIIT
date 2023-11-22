@@ -14,8 +14,8 @@
 | -----: | ------ | ------ | :-----: | 
 | 1. | Exercise 1 | Dummy dataset | <a href="../exercise/exer1/readme.md" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | 
 | 2. | Exercise 2 | Our Beautiful Culture: A Kids' Song of Love for Malaysia | <a href="../exercise/exer2" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | 
-| 3. | Exercise 3 | Story books | <a href="./exercise/exer3" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | 
-| 4. | Exercise 4 | Copywriting: My football team | <a href="./exercise/exer4" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | 
+| 3. | Exercise 3 | Story books | <a href="../exercise/exer3" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | 
+| 4. | Exercise 4 | Copywriting: My football team | <a href="../exercise/exer4" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | 
 
 ## Case study prompts for copywriting in the field of Computer Science
 
