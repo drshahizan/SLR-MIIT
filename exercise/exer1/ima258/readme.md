@@ -35,9 +35,7 @@
 | Zephyr Ng        | Female | 24  | 6 Serenity Lane, Sabah                 | Artist           | zephyr.ng@example.com      | +6015-3456789 |
 | Aurora Wong      | Male   | 31  | 21 Tranquility Lane, Sarawak           | Consultant       | aurora.wong@example.com    | +6012-9876543 |
 | Orion Abdullah   | Female | 37  | 10 Serene Street, Perak                | Psychologist     | orion.abdullah@example.com | +6013-2345678 |
-| Luna Tan         | Male   | 26  | 17 Serenity Lane, Kuala Lumpur         | Professor        | luna.tan@example.com       | +6016-8765432
-
- |
+| Luna Tan         | Male   | 26  | 17 Serenity Lane, Kuala Lumpur         | Professor        | luna.tan@example.com       | +6016-8765432 |
 | Phoenix Goh      | Female | 39  | 4 Peaceful Place, Penang               | Engineer         | phoenix.goh@example.com    | +6017-2345678 |
 | Celeste Ibrahim  | Male   | 22  | 19 Tranquil Terrace, Johor Bahru       | Teacher          | celeste.ibrahim@example.com| +6018-8765432 |
 | Solstice Lee     | Female | 29  | 8 Serendipity Road, Pahang             | Doctor           | solstice.lee@example.com   | +6019-2345678 |
