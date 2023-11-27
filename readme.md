@@ -66,6 +66,8 @@ Managing a systematic review is a complex process that requires careful planning
 ### [8. Text Summarizers](./materials/s1-summarizers.md)
 Text summarizers like Elicit, SciSpace, QuillBot, Wordtune, Scholarcy, Resoomer, and TLDR This help make long content shorter. They use smart technology to pick out important information and create brief summaries. Elicit is good for summarizing web pages, SciSpace focuses on science stuff, QuillBot can rewrite and summarize, Wordtune helps with writing, Scholarcy is for academic papers, Resoomer works for various content, and TLDR This quickly summarizes articles and documents. These tools save time and make information easier to understand by getting to the main points.
 
+## Session 2
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
 
