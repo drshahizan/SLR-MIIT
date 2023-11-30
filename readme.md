@@ -41,7 +41,7 @@ Please be sure to complete these tasks before our first class, as they are essen
 
 Looking forward to an amazing and productive class!
 
-## Session 1
+## [Session 1](./materials/session1.md)
 ### [1. Literature search](./materials/s1-lit-search.md)
 **Literature search**, a crucial aspect of academic research, involves the systematic exploration and retrieval of relevant scholarly information to support a particular topic or inquiry. Researchers employ various tools and databases to conduct comprehensive searches. [**Scopus**](scopus.md) and [**Web of Science**](web-of-science.md) are renowned multidisciplinary databases providing access to a wide array of academic literature, while [**Google Scholar**](google-scholar.md) offers a user-friendly interface for a broad search across disciplines. [**Semantic Scholar**](semantic-scholar.md) employs artificial intelligence to enhance search precision, while [**PubMed**](pubmed/) specializes in biomedical and life sciences. [**EvidenceHunt**](pubmed/evidence-hunt.md) is a platform facilitating evidence-based research ([EvidenceHunt](https://evidencehunt.com/)), and [**Publish or Perish**](publish-or-perish.md) evaluates research impact using citation metrics. [**Zeta Alpha**](zeta-alpha.md), and [**Consensus.app**](consensus.app.md) are emerging platforms offering collaborative research and decision-making functionalities. Additionally, [**scite.ai**](scite-ai.md) aids researchers in assessing the reliability of scientific claims through citation analysis. This diverse array of tools caters to researchers' needs, offering a spectrum of options for efficient literature exploration and retrieval.
 
