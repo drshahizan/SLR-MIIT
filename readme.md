@@ -43,7 +43,7 @@ Looking forward to an amazing and productive class!
 
 ## [Session 1](./materials/session1.md)
 
-## Session 2
+## [Session 2](https://drshahizan.gitbook.io/slr/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
