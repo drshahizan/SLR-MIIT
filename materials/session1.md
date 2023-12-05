@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-MIIT&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 ## Session 1
-### [1. Literature search](./materials/s1-lit-search.md)
+### [1. Literature search](./s1-lit-search.md)
 **Literature search**, a crucial aspect of academic research, involves the systematic exploration and retrieval of relevant scholarly information to support a particular topic or inquiry. Researchers employ various tools and databases to conduct comprehensive searches. [**Scopus**](scopus.md) and [**Web of Science**](web-of-science.md) are renowned multidisciplinary databases providing access to a wide array of academic literature, while [**Google Scholar**](google-scholar.md) offers a user-friendly interface for a broad search across disciplines. [**Semantic Scholar**](semantic-scholar.md) employs artificial intelligence to enhance search precision, while [**PubMed**](pubmed/) specializes in biomedical and life sciences. [**EvidenceHunt**](pubmed/evidence-hunt.md) is a platform facilitating evidence-based research ([EvidenceHunt](https://evidencehunt.com/)), and [**Publish or Perish**](publish-or-perish.md) evaluates research impact using citation metrics. [**Zeta Alpha**](zeta-alpha.md), and [**Consensus.app**](consensus.app.md) are emerging platforms offering collaborative research and decision-making functionalities. Additionally, [**scite.ai**](scite-ai.md) aids researchers in assessing the reliability of scientific claims through citation analysis. This diverse array of tools caters to researchers' needs, offering a spectrum of options for efficient literature exploration and retrieval.
 
 ### [2. Paper Discovery](./materials/s1-discovery.md)
