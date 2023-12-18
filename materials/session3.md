@@ -41,6 +41,9 @@ This includes defining the main research questions of the literature review, def
 <br>(5) [Systematic Review | Definition, Example & Guide - Scribbr](https://www.scribbr.com/methodology/systematic-review/)
 <br>(6) [The Art of Conducting a Systematic Literature Review (SLR)](https://www.researchvoyage.com/conducting-systematic-literature-review-slr/)
 
+## Materials:
+[A Systematic Literature Review on Feature Selection for Machine Learning based Attack Classification for IoT Security](https://github.com/drshahizan/research-material/blob/main/SLR/lijing/A%20Systematic%20Literature%20Review%20on%20Feature%20Selection%20for%20Machine%20Learning%20based%20Attack%20Classification%20for%20IoT%20Security_2023-02-19.pdf)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
 
