@@ -15,7 +15,7 @@
 |:---------:|----------------------------------------------------------|-------------------------------------|------------------|
 | 1       | [AI Tools for Literature Review](./materials/session1.md) | 21 – 22 Nov 2023                   | UniKL MIIT       |
 | 2       | [SLR Mastery: From Theory to Practice](https://drshahizan.gitbook.io/slr/)                     | 5 – 6 Dec 2023                    | UniKL MIIT       |
-| 3       | Mastering the Art of Crafting a SLR: A Workshop Guide    | 19 – 20 Dec 2023                  | UniKL MIIT       |
+| 3       | [Mastering the Art of Crafting a SLR: A Workshop Guide(./materials/session3.md)    | 19 – 20 Dec 2023                  | UniKL MIIT       |
 | 4       | Mentoring Session 1                                       | 2 – 3 Jan 2024  | Online Sessions  |
 | 5       | Mentoring Session 2                                       | 30 – 31 Jan 2024  | Online Sessions  |
 
