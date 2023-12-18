@@ -11,7 +11,7 @@ An SLR is a formal way of synthesising the information available from primary st
 
 1. **Formulate a clear and specific research question** that you want to answer with your SLR. For example, "What are the benefits and challenges of using agile methods in software development?"¹ or "What are the current techniques being used to improve the efficiency of sorting algorithms in computer science?"¹².
 
-2. **Develop a review protocol** that describes the objectives, methods, and criteria for your SLR. You can use a template such as [this one](^2^) to guide you. The protocol should include the following elements:
+2. **Develop a review protocol** that describes the objectives, methods, and criteria for your SLR. You can use a template such as [this one]((https://www.researchgate.net/profile/Rodrigo-Silva-20/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide/links/59f631caaca272607e2bc1c1/Systematic-Literature-Review-in-Computer-Science-A-Practical-Guide.pdf?origin=publication_detail)) to guide you. The protocol should include the following elements:
     - The research question and its rationale
     - The search strategy and sources
     - The inclusion and exclusion criteria for selecting studies
