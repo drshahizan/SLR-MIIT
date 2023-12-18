@@ -25,10 +25,10 @@
 
 Remember, these are just examples and the specific details may vary depending on the topic and scope of your review¹². Happy reviewing! 😊
 
-**Source:**
+### Source
 (1) How to do a Structured Literature Review in computer science - NTNU. https://research.idi.ntnu.no/aimasters/files/SLR_HowTo2018.pdf.
-(2) Systematic Literature Review in Computer Science - A Practical Guide. https://www.researchgate.net/profile/Rodrigo-Silva-20/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide/links/59f631caaca272607e2bc1c1/Systematic-Literature-Review-in-Computer-Science-A-Practical-Guide.pdf?origin=publication_detail.
-(3) Convergence of Gamification and Machine Learning: A Systematic .... https://link.springer.com/article/10.1007/s10758-020-09456-4.
+<br>(2) Systematic Literature Review in Computer Science - A Practical Guide. https://www.researchgate.net/profile/Rodrigo-Silva-20/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide/links/59f631caaca272607e2bc1c1/Systematic-Literature-Review-in-Computer-Science-A-Practical-Guide.pdf?origin=publication_detail.
+<br>(3) Convergence of Gamification and Machine Learning: A Systematic .... https://link.springer.com/article/10.1007/s10758-020-09456-4.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
