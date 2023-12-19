@@ -48,7 +48,7 @@ This includes defining the main research questions of the literature review, def
     - Conclusion: Summarize the main points and contributions of your SLR, and provide a clear and concise answer to your research question.
     - References: List the sources that you cited in your report, using a consistent and appropriate citation style.
 
-### Source
+### Reference Papers for SLR
 (1) [How to do a Structured Literature Review in computer science - NTNU](https://research.idi.ntnu.no/aimasters/files/SLR_HowTo2018.pdf)
 <br>(2) [Systematic Literature Review in Computer Science - A Practical Guide](https://www.researchgate.net/profile/Rodrigo-Silva-20/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide/links/59f631caaca272607e2bc1c1/Systematic-Literature-Review-in-Computer-Science-A-Practical-Guide.pdf?origin=publication_detail)
 <br>(3) [Description of the Systematic Literature Review Method](https://www.tu.berlin/en/wm/bibliothek/research-teaching/systematic-literature-reviews/description-of-the-systematic-literature-review-method)
