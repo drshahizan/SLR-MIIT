@@ -42,7 +42,6 @@ Remember, the key to a successful literature review is a systematic and organize
 9. [Download Zotero](https://www.zotero.org/download/)
 10. [Zotero Connector Download](https://www.zotero.org/download/conne)
 11. [Zotero Plugins](https://www.zotero.org/support/plugins)
-12. [Zotero User Guide (PDF)](https://www.zotero.org/static/download/zotero_user_guide.pdf)
 
 ## YouTube Tutorials
 1. [How To Use Zotero (A Complete Beginner's Guide)](https://youtu.be/JG7Uq_JFDzE?si=y4tAl6h-eARbREjz): This tutorial shows you everything you need to know about Zotero, especially if you are a beginner.
