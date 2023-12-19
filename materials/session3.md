@@ -18,6 +18,7 @@
 
 ### Part 2:
 1. [How do I Deal with Missing Data in my SLR?](s3_1g.md)
+2. [Zotero and SLR](s3_zotero.md)
 
 #### Summary
 An SLR is a formal way of synthesising the information available from primary studies relevant to a set of research questions. It follows a strict methodological framework with a set of well-defined steps carried out in accordance with a predefined protocol. Here are some possible steps for your exercise:
