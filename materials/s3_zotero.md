@@ -21,32 +21,28 @@ Zotero is a powerful tool that can greatly facilitate the process of creating sy
 
 Remember, the key to a successful literature review is a systematic and organized approach, and Zotero provides the tools to do just that². Happy researching! 😊
 
-**Source**: 
-1. [Appropedia - Using Zotero to create literature reviews](https://www.appropedia.org/Using_Zotero_to_create_literature_reviews)
-2. [YouTube - Zotero & Systematic Reviews](https://www.youtube.com/watch?v=GsjwUqxffsM)
-3. [Medium - Literature Reviews using Zotero & Obsidian](https://medium.com/@alexandraphelan/literature-reviews-using-zotero-obsidian-66eba1565d78)
-4. [How I read, annotate, & organize research papers using Zotero + Notion](https://medium.com/@anna-everett/how-i-read-annotate-organize-research-papers-using-zotero-notion-33057054f57a)
-5. [JABSOM - Zotero LibGuide](http://libguides.jabsom.hawaii.edu/sy)
-6. [YouTube - Undefined](https://www.youtube.com/watch)
-
-
 ## Web Resources
 1. [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide): This guide provides an overview of Zotero's features and capabilities.
-2. [Getting Started with Zotero 5.0 - Udemy](https://www.udemy.com/course/how-to-manage-references-and-citations-in-zotero/): This course is designed for students who are new to Zotero or have only limited experience.
-3. [Mastering Zotero – Open Textbook - York University](https://pressbooks.library.yorku.ca/masteringzotero/): Learn how to use Zotero's organization tools effectively, how to read and annotate content in a way that will keep your notes organized, and more.
-4. [Beginning Zotero Tutorial - Oxford Graduate School](https://ogs.edu/wp-content/uploads/2020/08/101-102-Zotero-Tutorials.pdf): This tutorial provides a comprehensive guide on how to set up and use Zotero effectively.
-5. [Tips & Tricks - Smithsonian Libraries](https://library.si.edu/sites/default/files/tutorial/pdf/zoterotipstricks-2021-03.pdf): This guide offers tips and tricks on how to use Zotero, including how to save items into your Zotero library and how to organize your Zotero library.
-6. [How to Capture and Cite Sources with Zotero - Trinity College](https://epress.trincoll.edu/webwriting/chapter/how-to-zotero/): This guide shows you how to capture source metadata into your Zotero library, including any PDF files or web snapshots, if available.
-7. [York University - Course Introduction and Setup – Mastering Zotero](https://pressbooks.library.yorku.ca/masteringzotero/front-matter/introduction/)
-8. [Zotero Documentation - Screencast Tutorials](https://www.zotero.org/support/screencast_tutorials)
-9. [Download Zotero](https://www.zotero.org/download/)
-10. [Zotero Connector Download](https://www.zotero.org/download/conne)
-11. [Zotero Plugins](https://www.zotero.org/support/plugins)
+2. [How I read, annotate, & organize research papers using Zotero + Notion](https://medium.com/@anna-everett/how-i-read-annotate-organize-research-papers-using-zotero-notion-33057054f57a)
+3. [Appropedia - Using Zotero to create literature reviews](https://www.appropedia.org/Using_Zotero_to_create_literature_reviews)
+4. [Medium - Literature Reviews using Zotero & Obsidian](https://medium.com/@alexandraphelan/literature-reviews-using-zotero-obsidian-66eba1565d78)
+5. [Getting Started with Zotero 5.0 - Udemy](https://www.udemy.com/course/how-to-manage-references-and-citations-in-zotero/): This course is designed for students who are new to Zotero or have only limited experience.
+6. [Mastering Zotero – Open Textbook - York University](https://pressbooks.library.yorku.ca/masteringzotero/): Learn how to use Zotero's organization tools effectively, how to read and annotate content in a way that will keep your notes organized, and more.
+7. [Beginning Zotero Tutorial - Oxford Graduate School](https://ogs.edu/wp-content/uploads/2020/08/101-102-Zotero-Tutorials.pdf): This tutorial provides a comprehensive guide on how to set up and use Zotero effectively.
+8. [Tips & Tricks - Smithsonian Libraries](https://library.si.edu/sites/default/files/tutorial/pdf/zoterotipstricks-2021-03.pdf): This guide offers tips and tricks on how to use Zotero, including how to save items into your Zotero library and how to organize your Zotero library.
+9. [How to Capture and Cite Sources with Zotero - Trinity College](https://epress.trincoll.edu/webwriting/chapter/how-to-zotero/): This guide shows you how to capture source metadata into your Zotero library, including any PDF files or web snapshots, if available.
+10. [York University - Course Introduction and Setup – Mastering Zotero](https://pressbooks.library.yorku.ca/masteringzotero/front-matter/introduction/)
+11. [Zotero Documentation - Screencast Tutorials](https://www.zotero.org/support/screencast_tutorials)
+12. [Download Zotero](https://www.zotero.org/download/)
+13. [Zotero Connector Download](https://www.zotero.org/download/conne)
+14. [Zotero Plugins](https://www.zotero.org/support/plugins)
+15. [JABSOM - Zotero LibGuide](http://libguides.jabsom.hawaii.edu/sy)
 
 ## YouTube Tutorials
-1. [How To Use Zotero (A Complete Beginner's Guide)](https://youtu.be/JG7Uq_JFDzE?si=y4tAl6h-eARbREjz): This tutorial shows you everything you need to know about Zotero, especially if you are a beginner.
-2. [Learn how to use Zotero in 30 minutes](https://youtu.be/BQL_7C-YqBk?si=lB-MfEnFxT6XXdgg): This comprehensive tutorial allows you to learn how to use Zotero in just 30 minutes.
-3. [How To Use Zotero 2023 (Including Zotero Connector)](https://youtu.be/tnbwKj6-pD8?si=IB3EPyY1j32zf7sv): This detailed tutorial shows you how to use the Zotero reference manager and Zotero connector.
+1. [YouTube - Zotero & Systematic Reviews](https://www.youtube.com/watch?v=GsjwUqxffsM)
+2. [How To Use Zotero (A Complete Beginner's Guide)](https://youtu.be/JG7Uq_JFDzE?si=y4tAl6h-eARbREjz): This tutorial shows you everything you need to know about Zotero, especially if you are a beginner.
+3. [Learn how to use Zotero in 30 minutes](https://youtu.be/BQL_7C-YqBk?si=lB-MfEnFxT6XXdgg): This comprehensive tutorial allows you to learn how to use Zotero in just 30 minutes.
+4. [How To Use Zotero 2023 (Including Zotero Connector)](https://youtu.be/tnbwKj6-pD8?si=IB3EPyY1j32zf7sv): This detailed tutorial shows you how to use the Zotero reference manager and Zotero connector.
 
 
 
