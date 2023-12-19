@@ -78,9 +78,6 @@ Source:
 3. [Zotero Tutorial: Working with PDFs - YouTube](https://www.youtube.com/watch?v=4aDvAPLZwCY)
 4. [Zotero Documentation - Attaching Files](https://www.zotero.org/support/attaching_files)
 5. [Zotero Documentation - PDF Reader](https://www.zotero.org/support/pdf_reader)
-6. [TinyURL - Link 1](http://tinyurl.com/n8kemkt)
-7. [TinyURL - Link 2](http://tinyurl.com/2j7let)
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
