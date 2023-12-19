@@ -15,7 +15,7 @@
 4. [Synthesizing the Results of the Studies](s3_1d.md)
 5. [Reporting the Results of the Review](s3_1e.md)
 6. [Writing the Conclusion](s3_1f.md)
-# How do I Deal with Missing Data in my SLR?
+#### How do I Deal with Missing Data in my SLR?
 
 
 An SLR is a formal way of synthesising the information available from primary studies relevant to a set of research questions. It follows a strict methodological framework with a set of well-defined steps carried out in accordance with a predefined protocol. Here are some possible steps for your exercise:
