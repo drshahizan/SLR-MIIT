@@ -18,10 +18,8 @@
 
 ### Part 2:
 1. [How do I Deal with Missing Data in my SLR?](s3_1g.md)
-2. [Summary]()
-3. 
 
-
+#### Summary
 An SLR is a formal way of synthesising the information available from primary studies relevant to a set of research questions. It follows a strict methodological framework with a set of well-defined steps carried out in accordance with a predefined protocol. Here are some possible steps for your exercise:
 
 1. **Formulate a clear and specific research question** that you want to answer with your SLR. For example, "What are the benefits and challenges of using agile methods in software development?"¹ or "What are the current techniques being used to improve the efficiency of sorting algorithms in computer science?"¹².
