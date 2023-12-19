@@ -44,6 +44,42 @@ Remember, the key to a successful literature review is a systematic and organize
 3. [Learn how to use Zotero in 30 minutes](https://youtu.be/BQL_7C-YqBk?si=lB-MfEnFxT6XXdgg): This comprehensive tutorial allows you to learn how to use Zotero in just 30 minutes.
 4. [How To Use Zotero 2023 (Including Zotero Connector)](https://youtu.be/tnbwKj6-pD8?si=IB3EPyY1j32zf7sv): This detailed tutorial shows you how to use the Zotero reference manager and Zotero connector.
 
+## Zotero: Tagging
+Adding tags to an item in Zotero is a straightforward process. Here are the steps:
+
+1. Select the item in the center Zotero pane that you want to add a tag to¹.
+2. Click the Tags tab in the right-hand pane¹.
+3. Click the Add button¹.
+4. Type the tag name¹.
+5. Press Enter/Return¹.
+
+You can rename a tag by clicking on it and typing the new name¹. Once you have added the tag, it will also appear in the tag selector in the bottom left¹.
+
+Remember, tags are a powerful mechanism for managing content in Zotero. They allow you to filter and sort your Zotero library in almost limitless ways to find specific content, and to see connections between items². You can also organize tags by assigning colors to your most important ones². Happy researching! 📚
+
+1. [Zotero Documentation - Collections and Tags](https://www.zotero.org/support/collections_and_tags)
+2. [Mastering Zotero - York University - Working with Tags](https://pressbooks.library.yorku.ca/masteringzotero/chapter/working-with-tags/)
+3. [York University - 5 An easier way to manage tags and related items](https://pressbooks.library.yorku.ca/masteringzotero/chapter/an-easier-way-to-manage-tags-and-related-items/)
+
+## Zotero: Adding articles
+Adding articles with PDF files to Zotero is quite simple. Here are the steps:
+
+1. **Importing PDFs**: Drag your existing PDFs into your Zotero library or use the “Store Copy of File” or “Link to File” options from the add new item menu (green plus sign)⁴. Zotero will automatically retrieve metadata for each PDF, create an appropriate parent item, and rename the associated file based on the metadata⁴.
+
+2. **Viewing a PDF in Your Browser**: If you are viewing a PDF file in your browser, the save button will show a PDF icon¹. Clicking this button will import the PDF file alone into your library and then automatically attempt to retrieve information about it¹. If Zotero isn't able to retrieve metadata, it will leave the PDF as a standalone attachment¹. To add metadata, you'll need to create a parent item¹.
+
+3. **Adding Metadata to a Standalone PDF**: If you save a PDF directly and Zotero isn't able to retrieve metadata, you can add metadata by creating a parent item¹. This can be done by saving a regular bibliographic item as described above and dragging the PDF on top of it or by right-clicking on the PDF, choosing Create Parent Item, and entering an identifier such as a DOI or ISBN¹. If all else fails, you can click Manual Entry after selecting Create Parent Item and manually enter metadata for the item¹.
+
+Remember, Zotero is a powerful tool for managing your research. It allows you to collect, organize, and cite your research sources efficiently¹⁴.
+
+Source: 
+1. [Zotero Documentation - Retrieve PDF Metadata](https://www.zotero.org/support/retrieve_pdf_metadata)
+2. [Zotero Documentation - Adding Items to Zotero](https://www.zotero.org/support/adding_items_to_zotero)
+3. [Zotero Tutorial: Working with PDFs - YouTube](https://www.youtube.com/watch?v=4aDvAPLZwCY)
+4. [Zotero Documentation - Attaching Files](https://www.zotero.org/support/attaching_files)
+5. [Zotero Documentation - PDF Reader](https://www.zotero.org/support/pdf_reader)
+6. [TinyURL - Link 1](http://tinyurl.com/n8kemkt)
+7. [TinyURL - Link 2](http://tinyurl.com/2j7let)
 
 
 ## Contribution 🛠️
