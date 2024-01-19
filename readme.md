@@ -20,7 +20,7 @@
 | 5       | Mentoring Session 2                                       | 30 – 31 Jan 2024  | Online Sessions  |
 
 <p align="center">
-<img src="/images/alla_unikl.jpeg"  height="500" />
+<img src="/images/alla_unikl.jpeg"  height="350" />
 </p>
 
 ## Important Things to do Before Going to the SLR Workshop 🚀
