@@ -19,7 +19,7 @@
 | 4       | Mentoring Session 1                                       | 2 – 3 Jan 2024  | Online Sessions  |
 | 5       | Mentoring Session 2                                       | 30 – 31 Jan 2024  | Online Sessions  |
 
-<p align="center">
+<p align="left">
 <img src="/images/alla_unikl.jpeg"  height="350" />
 </p>
 
