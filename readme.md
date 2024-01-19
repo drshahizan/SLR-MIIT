@@ -19,6 +19,10 @@
 | 4       | Mentoring Session 1                                       | 2 – 3 Jan 2024  | Online Sessions  |
 | 5       | Mentoring Session 2                                       | 30 – 31 Jan 2024  | Online Sessions  |
 
+<p align="center">
+<img src="/images/all_unikl.jpeg"  height="500" />
+</p>
+
 ## Important Things to do Before Going to the SLR Workshop 🚀
 Welcome to SLR Workshop! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
 
