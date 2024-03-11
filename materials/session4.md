@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/SLR-MIIT/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-MIIT?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-MIIT&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-## Session 4
+## Session 4: Mentoring Session 1
 
 ### Learning Materials
 
